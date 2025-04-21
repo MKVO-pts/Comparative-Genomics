@@ -31,6 +31,7 @@ Options:
 7. Sequence Statistics (Pepinfo | Pepstats | Pepwindow | SAPS | Cpgplot | Newcpgreport | Isochore | Dotmatcher | Dotpath | Dottup | Polydot)
 
 ## ToDo Functions/Classes
+0. Install nedded programs (Linux/Windows)
 1. Database Protien sequence Fetch (|Sigle/List Proteins|)
    1.1 Allow IDs from multiple Databases
    1.2 Cut sequence (Optional)
