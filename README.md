@@ -1,4 +1,4 @@
-# Comparatice Genomics Pipeline
+# Comparative Genomics Pipeline
 
 ## Function
 Full Pipeline analysis from a Single Gene/Protein Sequence. (Optimized for High Accuracy/Quality Results)
@@ -25,7 +25,7 @@ Options:
 1. Download Original Gene/Protein Sequence
 2. Multiple Database Fech (NCBI | UniProt | EBI | PDB)
 3. Sequence Translation (Transeq | Sixpack | Backtranseq | Backtranambig)
-4. Sequence Similarity Search (NCBI BLAST | PSI-BLAST | FASTA | SSEARCH | PSI-Search | PSI-Search2 | GGSEARCH | GLSEARCH | FASTM/S/F | HMMER3 phmmer | HMMER3 nhmmer )
+4. Sequence Similarity Search (NCBI BLAST | PSI-BLAST | FASTA | SSEARCH | PSI-Search | PSI-Search2 | GGSEARCH | GLSEARCH | FASTM/S/F | HMMER3 phmmer | HMMER3 nhmmer | MMseqs2)
 5. Multiple Sequence Alignment (Clustal Omega | Cons | Kalign | MAFFT | MUSCLE | MUSCLE 5 | MView | T-Coffee | WebPRANK)
 6. Phylogeny (Simple Phylogeny | IQTree)
 7. Sequence Statistics (Pepinfo | Pepstats | Pepwindow | SAPS | Cpgplot | Newcpgreport | Isochore | Dotmatcher | Dotpath | Dottup | Polydot)
@@ -39,8 +39,8 @@ Options:
 4. Local Mafft MSA (Local + Global) (High Accuracy)
 5. Local IQTree (High Accuracy)
 6. Sequence Similarity Search (|Single protein|)
-   6.1 NCBI BLAST
-   6.2 Additional Searches
+   6.1 NCBI BLAST 
+   6.2 Additional Searches (HMMER3,PSI-BLAST,MMseqs2)
    6.3 Remove duplicated Results
    6.4 Create Results Fasta
 8. Sequence Statistics (|Single protein|)
